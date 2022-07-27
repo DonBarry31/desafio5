@@ -1,0 +1,19 @@
+
+#logo-gordo{
+    border-radius: 85%;
+    height: 100%;
+    width: 45%;
+}
+.logoG{
+    width: 30%;
+    height: 21%;
+}
+@media screen and (max-width: 991px) {
+    #logo-gordo{
+        float: right;
+    }
+}
+#fotoS{
+    width: 60%;
+    height: 60%;
+}
